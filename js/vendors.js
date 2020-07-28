@@ -1,0 +1,1 @@
+var mySwiper=new Swiper(".block-02__slider",{loop:!0,initialSlide:2,slidesPerView:1,centeredSlides:!0,autoheight:!1,spaceBetween:10,navigation:{nextEl:".block-02__next-btn",prevEl:".block-02__prev-btn"},breakpoints:{650:{slidesPerView:3}}});
