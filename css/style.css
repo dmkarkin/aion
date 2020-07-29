@@ -1349,7 +1349,7 @@ body.ie .ibg img {
 @media (min-width: 479.98px) {
 	.footer__row {
 		-ms-flex-wrap: no-wrap;
-		    flex-wrap: no-wrap;
+		    flex-wrap: nowrap;
 	}
 }
 .footer__col {
@@ -1660,7 +1660,7 @@ body.ie .ibg img {
 		margin: 65px auto 0;
 	}
 }
-@media (min-width: 1600) {
+@media (min-width: 1600px) {
 	.block-02__slider {
 		width: 1500px;
 		height: 600px;
